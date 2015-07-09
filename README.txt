@@ -1,4 +1,7 @@
-GitHub installé sur ma base Windows Visual Studio
+PreReq: VSTO2013, GitHub installé sur ma base Windows Visual Studio
+Python Tools for Visual Studio (for debugging GAE with ptvs).
+
+GCE SDK: Google Cloud Engine SDK installé sur : C:\Program Files\Google\Cloud SDK>
 suivi tuto :
 http://joesdevnotepad.blogspot.co.at/2014/07/remote-debug-google-app-engine.html
 
