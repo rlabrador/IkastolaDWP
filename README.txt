@@ -1,6 +1,7 @@
 GitHub installé sur ma base Windows Visual Studio
 suivi tuto :
 http://joesdevnotepad.blogspot.co.at/2014/07/remote-debug-google-app-engine.html
+
 #################
  Remote debug Google App Engine development server with Python Tools for Visual Studio 2013
 I mainly post this, so I will remember the next time I try it. Also because I couldn't find a complete solution anywhere else.
